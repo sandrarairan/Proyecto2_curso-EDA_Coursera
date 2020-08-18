@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 exdata_data_NEI_data.zip
 .Rhistory
 =======
+=======
+>>>>>>> 55e73873df463f6ceabad320f020c8be2bd034ac
 # History files
 .Rhistory
 .Rapp.history
@@ -41,4 +44,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+<<<<<<< HEAD
 >>>>>>> c11cddc6c00f924abe9d41287896f2ae8dfa9998
+=======
+>>>>>>> 55e73873df463f6ceabad320f020c8be2bd034ac
